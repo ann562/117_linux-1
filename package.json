@@ -19,5 +19,10 @@
   "homepage": "https://github.com/kaw393939/117_linux#readme",
   "dependencies": {
     "express": "^4.21.0"
-  }
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "devDependencies": {},
+  "keywords": []
 }
